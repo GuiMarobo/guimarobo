@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimarobo&layout=compact&theme=tokyonight&title_color=red&text_color=white&bg_color=000000)
+
 
 ## 🔗 Conecte-se comigo
 
