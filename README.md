@@ -12,14 +12,17 @@ Procuro sempre evoluir, tanto como pessoa quanto como desenvolvedor, por meio de
 
 
 <p align="left">
-    <a href="https://github.com/guimarobo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://www.instagram.com/g.marobo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://linkedin.com/in/guimarobo" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.discordapp.com/users/471748139825496064" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:guimarobo@outlook.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <a href="https://www.linkedin.com/in/guimarobo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="mailto:guimarobo@outlook.com">
+  <img src="https://img.shields.io/static/v1?message=e-MAIL&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </p>
 
