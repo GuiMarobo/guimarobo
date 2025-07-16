@@ -59,9 +59,3 @@ Procuro sempre evoluir, tanto como pessoa quanto como desenvolvedor, por meio de
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimarobo&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GuiMarobo/GuiMarobo/output/snake.svg" alt="Snake animation" />
