@@ -10,7 +10,7 @@ Além da formação acadêmica, tenho 10 anos de experiência com o inglês em e
 
 Procuro sempre evoluir, tanto como pessoa quanto como desenvolvedor, por meio de estudos, atividades acadêmicas, projetos pessoais e experiências profissionais futuras.
 
-
+### 🔗 Conecte-se comigo
 <p align="left">
     <a href="https://www.instagram.com/g.marobo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
