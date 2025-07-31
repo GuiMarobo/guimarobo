@@ -1,34 +1,34 @@
 # Guilherme Marobo F. Martins
 
-**`Estudante - Engenharia de Software`**
+**`Student - Software Engineering`**
 
-Me chamo Guilherme Marobo Fontana Martins, tenho 19 anos e atualmente curso Engenharia de Software na UniFil — Londrina/PR. Estou no segundo ano da graduação, com previsão de conclusão para fevereiro de 2028.
+My name is Guilherme Marobo Fontana Martins, I am 19 years old and I am currently studying Software Engineering at UniFil — Londrina/PR. I am in the second year of my degree, with an expected graduation date in February 2028.
 
-A tecnologia sempre fez parte da minha vida, o que facilitou a escolha pela carreira na área de tecnologia. 
+Technology has always been a part of my life, which made choosing a career in the tech field easier.
 
-Além da formação acadêmica, tenho 10 anos de experiência com o inglês em escola de idiomas e certificação de fluência no nível B2 pela prova de Michigan (MET).
+In addition to my academic background, I have 10 years of experience learning English at a language school and hold a B2 fluency certification from the Michigan English Test (MET).
 
-Procuro sempre evoluir, tanto como pessoa quanto como desenvolvedor, por meio de estudos, atividades acadêmicas, projetos pessoais e experiências profissionais futuras.
+I am always striving to grow both as a person and as a developer through studies, academic activities, personal projects, and future professional experiences.
 
-### 🔗 Conecte-se comigo
+### 🔗 Connect with me
 <p align="left">
-    <a href="https://www.instagram.com/g.marobo" target="_blank">
+  <!--  <a href="https://www.instagram.com/g.marobo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  </a> 
   <a href="https://www.discordapp.com/users/471748139825496064" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/guimarobo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
     <a href="mailto:guimarobo@outlook.com">
-  <img src="https://img.shields.io/static/v1?message=e-MAIL&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </p>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -48,7 +48,6 @@ Procuro sempre evoluir, tanto como pessoa quanto como desenvolvedor, por meio de
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
 </p>
 
-
 ### 📊 GitHub Stats
 
 <p>
@@ -56,6 +55,6 @@ Procuro sempre evoluir, tanto como pessoa quanto como desenvolvedor, por meio de
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimarobo&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimarobo&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
