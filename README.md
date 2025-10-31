@@ -2,7 +2,7 @@
 
 **`Student - Software Engineering`**
 
-My name is Guilherme Marobo Fontana Martins. I am 19 years old and currently pursuing a degree in Software Engineering at UniFil — Londrina/PR. I am in my second year, with an expected graduation date in February 2028.
+My name is Guilherme Marobo Fontana Martins. I am 20 years old and currently pursuing a degree in Software Engineering at UniFil — Londrina/PR. I am in my second year, with an expected graduation date in February 2028.
 
 Technology has always played a significant role in my life, which made choosing a career in the tech industry a natural decision.
 
