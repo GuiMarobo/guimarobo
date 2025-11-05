@@ -6,7 +6,7 @@ My name is Guilherme Marobo Fontana Martins. I am 20 years old and currently pur
 
 Technology has always played a significant role in my life, which made choosing a career in the tech industry a natural decision.
 
-Beyond my academic background, I have spent 10 years studying English at a language school and hold a B2-level fluency certification from the Michigan English Test (MET).
+Beyond my academic background, I have spent 10 years studying English at a language school and hold a C1-level fluency certification from the Michigan English Test (MET).
 
 I am constantly seeking to grow both personally and professionally through continuous learning, academic projects, personal projects, and future work experiences.
 
