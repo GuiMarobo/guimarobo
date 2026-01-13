@@ -45,15 +45,3 @@ I am constantly seeking to grow both personally and professionally through conti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
-
-
-### 📊 GitHub Stats
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimarobo&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
