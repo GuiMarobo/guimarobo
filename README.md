@@ -1,14 +1,14 @@
 # Guilherme Marobo F. Martins
 
-**`Student - Software Engineering`**
+**`Full Stack Developer`**
 
-My name is Guilherme Marobo Fontana Martins. I am 20 years old and currently pursuing a degree in Software Engineering at UniFil — Londrina/PR. I am in my second year, with an expected graduation date in December 2027.
+My name is Guilherme Marobo Fontana Martins. I am 20 years old and currently pursuing a degree in Software Engineering at UniFil — Londrina/PR. I am in my third year, with an expected graduation date in July 2028.
 
 Technology has always played a significant role in my life, which made choosing a career in the tech industry a natural decision.
 
 Beyond my academic background, I have spent 10 years studying English at a language school and hold a C1-level fluency certification from the Michigan English Test (MET).
 
-I am constantly seeking to grow both personally and professionally through continuous learning, academic projects, personal projects, and future work experiences.
+I am constantly seeking to grow both personally and professionally through continuous learning, academic projects and personal projects.
 
 ### 🔗 Connect with me
 <p align="left">
@@ -29,8 +29,7 @@ I am constantly seeking to grow both personally and professionally through conti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring MVC" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
