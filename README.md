@@ -16,7 +16,7 @@
 
 ```ts
 const guilherme = {
-  role:      "Application Developer Intern @ Atos",
+  role:      "Full-Stack Developer Intern @ Semantix",
   education: "B.Sc. Software Engineering · UniFil, Londrina/PR - Brazil",
   english:   "C1 Advanced"
 };
