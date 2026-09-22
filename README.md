@@ -23,7 +23,7 @@ Persistent memory for Claude Code. Every session, Claude forgets your codebase: 
 
 ### MMT URBANA CRM — *Software Engineering Capstone*
 Full-stack CRM platform built from scratch for Apple device resellers. React frontend with component-driven UI and state management, NestJS REST API with JWT authentication, PostgreSQL via Prisma ORM, and full UML/RUP documentation.  
-`React · NestJS · PostgreSQL · Prisma ORM · Docker`
+`React · NestJS · Typescript · PostgreSQL · Prisma ORM · Docker`
 
 ---
 
