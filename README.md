@@ -17,10 +17,6 @@ I build and maintain production-grade web systems: REST APIs, backend services, 
 
 ## 🚀 Featured projects
 
-### liucun (留存) — *Open Source MCP Server*
-Persistent memory for Claude Code. Every session, Claude forgets your codebase: architecture, decisions, task progress. liucun fixes this by automatically capturing what Claude learns and injecting it back at the start of every session. Validated against real session data: 94.4% of bash commands in a typical session are pure exploration that liucun eliminates, reducing startup from 15–20 min to under 1 minute.  
-`TypeScript · SQLite · MCP`
-
 ### MMT URBANA CRM — *Software Engineering Capstone*
 Full-stack CRM platform built from scratch for Apple device resellers. React frontend with component-driven UI and state management, NestJS REST API with JWT authentication, PostgreSQL via Prisma ORM, and full UML/RUP documentation.  
 `React · NestJS · Typescript · PostgreSQL · Prisma ORM · Docker`
