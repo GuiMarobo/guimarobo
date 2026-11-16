@@ -20,7 +20,7 @@ I build and maintain production-grade backends and APIs. I'm currently a Full-St
 
 ### [Portunus Gateway](https://github.com/GuiMarobo/portunus-gateway) — *LLM gateway* (in development)
 An OpenAI-compatible gateway between your apps and LLM providers. Swap the base URL and API key and get per-tenant budgets and rate limits, exact and semantic caching, provider fallback with circuit breaker, async batch calls, searchable logs and automated quality evals.  
-`NestJS · TypeScript · LLMs · Observability`
+`NestJS · Fastify · TypeScript · LLMs · Observability`
 
 ### [MMT Urbana CRM](https://github.com/GuiMarobo) — *full-stack capstone*
 CRM for Apple device resellers, built from scratch: React frontend, NestJS REST API with JWT authentication, PostgreSQL via Prisma, with full UML/RUP documentation.  
