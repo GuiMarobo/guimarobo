@@ -2,9 +2,9 @@
 
 # Hi, I'm Guilherme Martins 👋
 
-**Full-Stack Developer** · Enterprise Systems · NestJS · NodeJs · Go · Angular · React
+**Full-Stack Developer** · Enterprise Systems · NestJS · NodeJs · Angular · React · AWS
 
-I build and maintain production-grade web systems: REST APIs, backend services, and infrastructure. Currently at **Semantix**, contributing to a large-scale enterprise platform used by companies across the whole world. On the side, I'm building an open source MCP server and a SaaS CRM from scratch.
+I build and maintain production-grade web systems: REST APIs, backend services, and infrastructure. Currently at **Semantix**, contributing to a large-scale enterprise platform used by companies across the whole world. On the side, I'm building an LLM Gateway (Portunus) and a SaaS CRM from scratch.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guimarobo-informational?style=flat&logo=linkedin&logoColor=white&color=0969DA)](https://linkedin.com/in/guimarobo)
 [![Medium](https://img.shields.io/badge/Medium-@guimarobo-informational?style=flat&logo=medium&logoColor=white&color=0969DA)](https://medium.com/@guimarobo)
